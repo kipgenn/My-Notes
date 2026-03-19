@@ -3,4 +3,4 @@
 - **Working With APIs:** [API Folder](./MLnotes/APIs/)
 - **ED Analysis:** [EDA Folder](./MLnotes/EDA)
 - **WeScraping:** [Webscraping Folder](./MLnotes/WebScrapping/)
-- **Panda Profiling:** [PProfile Folder](./MLnotes/Panda Profiling/)
+- **Panda Profiling:** [PProfile Folder](<./MLnotes/Panda Profiling/>)
