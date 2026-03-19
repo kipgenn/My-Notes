@@ -4,3 +4,4 @@
 - **ED Analysis:** [EDA Folder](./MLnotes/EDA)
 - **WeScraping:** [Webscraping Folder](./MLnotes/WebScrapping/)
 - **Panda Profiling:** [PProfile Folder](<./MLnotes/Panda Profiling/>)
+- **Steps for Data analysis:** [Know your data](<./MLnotes/Data_Analysis_Steps/>)
