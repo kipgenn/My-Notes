@@ -1,9 +1,7 @@
-# 📚 My Study Dashboard
+# My Machine Learning Library
 
-## 🚀 Competitive Programming (C++)
-- [ ] Master Segment Trees
-- [ ] Solve 5 Medium problems on LeetCode
-- **Reference:** [View my C++ Codes](./COL774/)
+## Working With CSVs
+- **Reference:** [CSV Notes](./CSVs)
 
 ## 📊 Data Science & ML (Python)
 I'm currently working on IPL and Zomato datasets.
